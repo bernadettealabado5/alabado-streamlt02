@@ -17,7 +17,7 @@ from sklearn.metrics import classification_report
 def app():
 
     st.title('Logistic Regression, Naive Bayes Classifiers and Support Vector Machine')
-    st.subheader('by Louie F. Cervantes M.Eng., WVSU College of ICT')
+    st.subheader('by Bernadette E. Alabado')
  
     st.write('Logistic Regression:')
     text = """Strengths: \nMore flexible: Can capture complex relationships between 
